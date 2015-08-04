@@ -1,0 +1,21 @@
+{
+  "name": "contact",
+  "version": "0.0.0",
+  "authors": [
+    "leodufer <leodufer@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.1",
+    "angular-resource": "~1.4.1"
+  }
+}
